@@ -21,12 +21,6 @@ la Plataforma GRD 2026 Lorem markdownum Boreas, nam quidem altera causas ospf_tr
 
 Email us at: [info@info.gov.co](mailto:info@info.gov.co)
 
-<!---
-<center>
-<a class="twitter-timeline" data-width="300" data-height="550" href="https://twitter.com/winter_complex">Tweets by wwcs</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </center>
---->
+## Apoyo
 
-## Support
-
-&nbsp; &nbsp; &nbsp;
-[<img src="/assets/image/sponsors/IAS.jpg" width="60%"/>](https://ias.uva.nl/?cb)
+Organizado por la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD).

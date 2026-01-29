@@ -11,7 +11,7 @@ baseurl:               /plataforma-nacional
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  sp
+lang:                  es
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title: Plataforma Nacional de Gestión del Riesgo de Desastres 2026
@@ -34,10 +34,8 @@ logo:                  /assets/icons/earth-svgrepo-com.svg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                ACUNGRDSCC
-  email:               acscc.info@protonmail.com
-  # Used by `jekyll-seo-tag`:
-  #twitter:             winter_complex
+  name:                Unidad Nacional para la Gestión del Riesgo de Desastres - UNGRD
+  email:               info@gestiondelriesgo.gov.co
   github:              scr-ungrd
 
 # Add links to the sidebar.
@@ -50,24 +48,22 @@ author:
 #    url:               /about/
 
 menu:
-  - title: About
+  - title: Sobre la Plataforma
     url: /about/
-  - title: Program
-    url:   /program/
+  - title: Programa
+    url:   /programa/
   - title: Speakers
     url:   /speakers/
-  - title: Venue
-    url:   /venue/
-  - title: Accommodation
-    url:   /accommodation/
-#  - title: Registration
-#    url: /registration/
-  - title: Application
-    url:   /application/
-  - title: Committee
-    url:   /committees/
-  - title: Support
-    url:   /support/
+  - title: Sede
+    url:   /sede/
+  - title: Inscripción
+    url: /inscripcion/
+  - title: Postulación
+    url:   /postulacion/
+  - title: Comités
+    url:   /comites/
+  - title: Contacto
+    url:   /contacto/
  
 
 # Add links to the footer.
@@ -93,7 +89,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/image23/amsterdam3.avif
+accent_image:          /assets/bogota.avif
 accent_color:          rgb(118,194,138)
 
 # This is used for the `theme-color` meta tag,
