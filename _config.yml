@@ -34,7 +34,10 @@ keywords:              []
 logo:                  /assets/UNGRD-Vertical.png
 
 # Used for Open Graph image (social media previews)
-image:                 /assets/UNGRD-Vertical.png
+image:
+  path: https://scr-ungrd.github.io/plataforma-nacional-grd/assets/UNGRD-Vertical.png
+  width: 1757
+  height: 1681
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
