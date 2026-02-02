@@ -7,7 +7,7 @@
 url:                   https://scr-ungrd.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
-baseurl:               /plataforma-nacional-2026
+baseurl:               /plataforma-nacional-grd
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
