@@ -7,4 +7,4 @@ title: Contacto
 
 Para más información sobre la Plataforma GRD 2026, contáctenos:
 
-Email: [info@info.gov.co](mailto:info@info.gov.co)
+Correo-e: [xxxxx@gestiondelriesgo.gov.co](mailto:xxxxx@gestiondelriesgo.gov.co)

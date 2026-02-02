@@ -10,7 +10,7 @@ The **La Primera Plataforma Nacional para la Gestión del Riesgo de Desastres** 
 ## Fechas Plataforma 2026:
 - **Mayo 20--23 de 2026**
 
-## Contact
+## Contacto
 
 Correo-e: [xxxxx@gestiondelriesgo.gov.co](mailto:xxxxx@gestiondelriesgo.gov.co)
 
