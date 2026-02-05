@@ -8,7 +8,7 @@ title: Plataforma Nacional para la Gestión del Riesgo de Desastres (Plataforma 
 The **La Primera Plataforma Nacional para la Gestión del Riesgo de Desastres** es una propuesta integral para articular, sistematizar y dinamizar el trabajo y las responsabilidades de los actores del Sistema Nacional de Gestión del Riesgo de Desastres (SNGRD), a partir del intercambio de experiencias y saberes entorno al análisis de los acontecimientos recientes, el avance en la formulación e implementación de hojas de ruta, la movilización y complementariedad de recursos financieros y de cooperación y el establecimiento de nuevos acuerdos y alianzas en cumplimiento de los objetivos de agendas nacionales (p.ej., PNGRD, PNACC) e internacionales (p.ej., Marco de Sendai).
 
 ## Fechas Plataforma 2026:
-- **Mayo 20--23 de 2026**
+- **XXX XX--XX de 2026**
 
 ## Contacto
 
